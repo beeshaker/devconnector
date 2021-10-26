@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://abhi123:abhi123@cluster0.wpxw2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecert": "mysecert",
+    "githubClientId": "c019266323f8093785f3",
+    "githubSecert": "c651e4da7b21b34214998488409e8c83ee1d43cf"
+}
